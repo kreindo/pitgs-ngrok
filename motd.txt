@@ -1,0 +1,5 @@
+<!-- Most valid html will work in here, but you have to use URL links for images. -->
+
+<h1>Welcome to Pondok Station 13!</h1>
+
+<i>Have fun and dont forget smiling.</i>
